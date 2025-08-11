@@ -1,29 +1,41 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Sharick Xiomara Casasbuenas Baez
+**Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [correo@ejemplo.com](sharickcasasbuenas@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/sharick-casasbuenas-9870b233a?)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Pyton.
+- JavaScrip.
+- HTML.
+- CSS.
+- PHP.
+- IA.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Carnes Red de Frios S.A.S** _(2025-actualidad)_
+- Asistente de Facturacion.
+- Uso de Xubio para facturacion.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Institucion Educativa San Mateo** _(2024)_
+- Bachiller.
+- Tecnico en Integracion de contenidos digitales.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Responsabilidad Tecnica**
+- **Rendimiento Metodico**
+- **Diciplina Y Calidad**
+- **Conciencia Hambiental Y Social**
+- **Buena practica de Documentacion y Control de Versiones**
+- **Comunicacion y Coaboracion activa con el cliente**
+- **Dispuesta a adoptar nuevas tecnologias cuando aportan valor**
+- **Eficiencia**
+- **Uso de Xubio**
 
 ---
 
