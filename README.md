@@ -5,8 +5,8 @@
 **Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Email:** [correo@ejemplo.com](sharickcasasbuenas@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/sharick-casasbuenas-9870b233a?)
+- **Email:** [sharickcasasbuenas@gmail.com](sharickcasasbuenas@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/sharick-casasbuenas-9870b233a?](https://linkedin.com/in/sharick-casasbuenas-9870b233a?)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
