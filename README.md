@@ -22,9 +22,13 @@
 - Uso de Xubio para facturacion.
 
 ## 🎓 Educación
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz Analisis y Desarrollo de Software.
+  
 ### **Institucion Educativa San Mateo** _(2024)_
 - Bachiller.
 - Tecnico en Integracion de contenidos digitales.
+
 
 ## 💡 Habilidades
 - **Responsabilidad Tecnica**
